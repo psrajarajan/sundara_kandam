@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "56630722285",
+    "project_id": "sundara-kandam",
+    "storage_bucket": "sundara-kandam.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56630722285:android:61fa1b0c743c6e411e96e4",
+        "android_client_info": {
+          "package_name": "com.rajarajan.sundara_kandam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh3iQ5O3aq4w8ADdOj0t4fYb7o7uJRWEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
